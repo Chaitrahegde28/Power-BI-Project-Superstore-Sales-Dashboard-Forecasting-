@@ -1,4 +1,4 @@
-# supreme-tribble
+# Power BI Project: Superstore Sales Dashboard & Forecasting📊✨
 Retail Insights Dashboard: Sales & Performance Analytics
 
 A dynamic Power BI dashboard that delivers data-driven insights into sales, profitability, and product trends to help businesses make smarter strategic decisions.
